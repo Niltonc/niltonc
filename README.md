@@ -4,12 +4,31 @@
   <h2> About me <img src = "https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width = 40px> </h2>
   <p align='center'></p>
 
-  texto sobre mim aqui
+  Control and automation engineer and software developer, with five years of experience and two years working with FrontEnd and BackEnd software.
   
   <h2> Works <img src = "https://cdn-icons-png.flaticon.com/512/2683/2683272.png" width = 40px> </h2>
   <p align='center'></p>
   
-    
+  **HTML**
+  
+  ✅ <a href="https://autodomo.com.br/">Autodomo</a>
+  
+  **WORDPRESS**
+  
+  ✅ <a href="https://labgenon.com.br/">Labgenon</a>
+  
+  ✅ <a href="https://www.aguiareng.com.br/">Aguiar Engenharia</a>
+  
+  **REACT JS**
+  
+  ✅ <a href="https://autodomo.io/">Autodo Cloud</a>
+  
+  **REACT NATIVE**
+  
+  🟩 Topografia APP (in production)
+  
+  🟩 Segurança APP (in production) 
+  
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
  **Aplicações**
@@ -60,5 +79,6 @@
   
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  
   
   [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
