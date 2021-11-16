@@ -2,6 +2,7 @@
   <p align='center'></p>
 
   ![Profile views](https://visitor-badge.glitch.me/badge?page_id=niltonc.niltonc)
+  [![Github](https://img.shields.io/github/followers/niltonc?label=Follow&style=social)](https://github.com/niltonc)
   
   <h2> About me <img src = "https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width = 40px> </h2>
   <p align='center'></p>
