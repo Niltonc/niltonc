@@ -9,6 +9,8 @@
 
   Control and automation engineer and software developer, with five years of experience and two years working with FrontEnd and BackEnd software.
   
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  
   <h2> Works <img src = "https://cdn-icons-png.flaticon.com/512/2683/2683272.png" width = 40px> </h2>
   <p align='center'></p>
   
