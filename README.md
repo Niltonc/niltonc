@@ -1,5 +1,7 @@
   <h1> Hello < Developers/ >, I'm Nilton Cesar! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
   <p align='center'></p>
+  ![Profile Views](https://komarev.com/ghpvc/?username=your-niltonc&color=green)
+
   
   <h2> About me <img src = "https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width = 40px> </h2>
   <p align='center'></p>
