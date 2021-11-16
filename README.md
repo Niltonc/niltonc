@@ -7,17 +7,16 @@
 ### 👨🏻‍💻 &nbsp;About Me
   
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track to learn more about User Experience, User Interface and Back End.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at niltoncesarjr1@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.aindanaotem.com/resume.html) for more details about me. I'm open to feedback and suggestions! 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 🛠 &nbsp;Tech Stack
   
   
-  ### 🛠 &nbsp;Tech Stack
+  
   <h2> Works <img src = "https://cdn-icons-png.flaticon.com/512/2683/2683272.png" width = 40px> </h2>
   <p align='center'></p>
   
