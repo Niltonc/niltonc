@@ -5,10 +5,10 @@
   [![Github](https://img.shields.io/github/followers/niltonc?label=Follow&style=social)](https://github.com/niltonc)
   
 ### 👨🏻‍💻 &nbsp;About Me
-  
+  <div flex-direction = "row">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   Control and automation engineer and software developer, with five years of experience and two years working with FrontEnd and BackEnd software.
-
+  </div>
   
   
   ### 🛠 &nbsp;Tech Stack
