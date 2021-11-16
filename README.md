@@ -1,9 +1,7 @@
   <h1> Hello < Developers/ >, I'm Nilton Cesar! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
   <p align='center'></p>
-  
-  [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-  
 
+  ![Profile views](https://visitor-badge.glitch.me/badge?page_id=niltonc.niltonc)
   
   <h2> About me <img src = "https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width = 40px> </h2>
   <p align='center'></p>
