@@ -59,7 +59,7 @@
   **HTML**
   
   <a href="https://github.com/niltonc/niltonc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niltonc&rniltonc&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niltonc&rniltonc/nilton&theme=tokyonight" />
   </a>
   
   ✅ <a href="https://autodomo.com.br/">Autodomo</a>
