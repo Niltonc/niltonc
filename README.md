@@ -56,11 +56,7 @@
   <h2> Works <img src = "https://cdn-icons-png.flaticon.com/512/2683/2683272.png" width = 40px> </h2>
   <p align='center'></p>
   
-  **HTML**
-  
-  <a href="https://github.com/niltonc/niltonc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niltonc&rniltonc/nilton&theme=tokyonight" />
-  </a>
+  **HTML**  
   
   ✅ <a href="https://autodomo.com.br/">Autodomo</a>
   
