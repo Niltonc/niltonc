@@ -16,7 +16,6 @@
   <div align="center">
   <a href="https://github.com/niltonc">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=niltonc&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=react&layout=compact" />
   </div>
     
 
