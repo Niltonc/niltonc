@@ -13,22 +13,14 @@
 ✉️ &nbsp;You can shoot me an email at niltoncesarjr1@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.aindanaotem.com/resume.html) for more details about me. I'm open to feedback and suggestions! 
 
-  <div align="center">
-  <a href="https://github.com/niltonc">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=niltonc&theme=react&show_icons=true&include_all_commits=true" />
-  </div>
+ 
   
-   <a href="https://github.com/Davekibh">
+   <a href="https://github.com/niltonc">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
   </a>
-
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
-
-
-
-
+  <a href="https://github.com/niltonc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=27" alt="Nilton's github stats"/>
+  </a>
     
 ### 🛠 &nbsp;Tech Stack
   **Aplicações**
@@ -65,6 +57,9 @@
   <p align='center'></p>
   
   **HTML**
+  <a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
   
   ✅ <a href="https://autodomo.com.br/">Autodomo</a>
   
