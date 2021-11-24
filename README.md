@@ -63,12 +63,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
  </a>
   
-  <h2> Aticles <img src = "https://cdn-icons-png.flaticon.com/512/3399/3399750.png" width = 32px> </h2>
+  ### 🛠 &nbsp;Articles
   
-  atigos aqui
+  xxxxxxxxxxxxxxx atigos aqui xxxxxxxxxxxxx
   
-  <h2> Contact <img src = "https://img-premium.flaticon.com/png/512/2245/premium/2245163.png?token=exp=1633491364~hmac=035ae9d29762951ea0918240364d497d" width = 32px> </h2>
-
+  ### 🛠 &nbsp;Contact
+  
   <a href="#" alt="GMAIL">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   
@@ -79,6 +79,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   
   <a href="https://www.instagram.com/niltoncosj/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/niltoncosj/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/niltoncosj/"/>     </a>
   
  
