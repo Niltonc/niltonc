@@ -15,10 +15,11 @@
 
   <div align="center">
   <a href="https://github.com/niltonc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
   </div>
     
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&layout=compact)](https://github.com/niltonc)
+
 
 
     
