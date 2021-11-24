@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at niltoncesarjr1@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.aindanaotem.com/resume.html) for more details about me. I'm open to feedback and suggestions! 
 
- ### 👨🏻‍💻 &nbsp; Git Stats
+### 🛠 &nbsp;Git Stats
   
    <a href="https://github.com/niltonc">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
@@ -53,28 +53,15 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
-  <h2> Works <img src = "https://cdn-icons-png.flaticon.com/512/2683/2683272.png" width = 40px> </h2>
-  <p align='center'></p>
+  ### 🛠 &nbsp;Projects
   
-  **HTML**  
-  
-  ✅ <a href="https://autodomo.com.br/">Autodomo</a>
-  
-  **WORDPRESS**
-  
-  ✅ <a href="https://labgenon.com.br/">Labgenon</a>
-  
-  ✅ <a href="https://www.aguiareng.com.br/">Aguiar Engenharia</a>
-  
-  **REACT JS**
-  
-  ✅ <a href="https://autodomo.io/">Autodo Cloud</a>
-  
-  **REACT NATIVE**
-  
-  🟩 Topografia APP (in production)
-  
-  🟩 Segurança APP (in production) 
+ <a href="https://github.com/Davekibh/Quiz-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+ </a>
+
+ <a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+ </a>
   
   <h2> Aticles <img src = "https://cdn-icons-png.flaticon.com/512/3399/3399750.png" width = 32px> </h2>
   
