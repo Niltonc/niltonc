@@ -13,6 +13,12 @@
 ✉️ &nbsp;You can shoot me an email at niltoncesarjr1@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.aindanaotem.com/resume.html) for more details about me. I'm open to feedback and suggestions! 
 
+  <div align="center">
+  <a href="https://github.com/niltonc">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+    
 ### 🛠 &nbsp;Tech Stack
   **Aplicações**
   
