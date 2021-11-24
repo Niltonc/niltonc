@@ -58,8 +58,8 @@
   
   **HTML**
   
-  <a href="https://github.com/niltonc/autodomo-admin-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niltonc&repo=autodomo-admin-web&theme=tokyonight" />
+  <a href="https://github.com/niltonc/niltonc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niltonc&rniltonc&theme=tokyonight" />
   </a>
   
   ✅ <a href="https://autodomo.com.br/">Autodomo</a>
