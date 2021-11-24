@@ -18,9 +18,13 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=niltonc&theme=react&show_icons=true&include_all_commits=true" />
   </div>
   
-      
-  
-  <img src="https://github.com/niltonc/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+   <a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
 
 
 
