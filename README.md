@@ -18,7 +18,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
     
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niltonc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niltonc&repo=github-readme-stats)](https://github.com/niltonc/niltonc)
 
     
 ### 🛠 &nbsp;Tech Stack
