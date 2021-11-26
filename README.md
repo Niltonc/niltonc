@@ -51,7 +51,7 @@
   
   ### 🛠 &nbsp;Contact
   
-  <a href="niltoncesarjr1@gmail.com" alt="Gmail">
+  <a href="" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=niltoncesarjr1@gmail.com" /></a>
   
   <a href="https://www.linkedin.com/in/nilton-cesar-oliveira-jr/" alt="Linkedin">
