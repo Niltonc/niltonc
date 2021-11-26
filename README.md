@@ -44,8 +44,8 @@
   
   ### 🛠 &nbsp;Projects
   
- <a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+ <a href="https://github.com/niltonc/dashboard-template">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niltonc&repo=dashboard-template&theme=tokyonight" />
  </a>
 
  <a href="https://github.com/Davekibh/Quiz-Admin-App">
