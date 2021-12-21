@@ -43,15 +43,10 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)
   ![VueNative](https://img.shields.io/badge/-VueNative-333333?style=flat&logo=vuedotjs)
-  ![MaterializeCSS](https://img.shields.io/badge/-Materialize--CSS-333333?style=flat&logo=materialize--css)
-  
-   - api e db
-  
+  ![MaterializeCSS](https://img.shields.io/badge/-Materialize--CSS-333333?style=flat&logo=materialize--css)  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- 
   ![WordPress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
-  
-  
+ 
   ##### &nbsp;Git and Addons
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -72,7 +67,6 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Arduino_IDE](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
   ![Raspberry](https://img.shields.io/badge/-Raspberry-333333?style=flat&logo=Raspberry%20Pi)
-  
   
   ### 🛠 &nbsp;Projects
   
