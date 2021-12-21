@@ -23,24 +23,56 @@
   </a>
     
 ### 🛠 &nbsp;Tech Stack
+ 
+ ##### &nbsp; Languages
   
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=1572B6)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=1572B6)
+    
+  ##### &nbsp; Frameworks
+ 
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodedotjs)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)
+  ![VueNative](https://img.shields.io/badge/-VueNative-333333?style=flat&logo=vuedotjs)
+  ![MaterializeCSS](https://img.shields.io/badge/-Materialize--CSS-333333?style=flat&logo=materialize--css)
   
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+   - api e db
+  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+ 
+  ![WordPress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+  
+  
+  ##### &nbsp;Git and Addons
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Eslint](https://img.shields.io/badge/-Eslint-333333?style=flat&logo=eslint)
+  ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)
+  
+  ##### &nbsp;Design
+   
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop)
+  
+  ##### &nbsp;Preferred IDEs, Prototyping Platforms & Tools 
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Arduino_IDE](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+  ![Raspberry](https://img.shields.io/badge/-Raspberry-333333?style=flat&logo=Raspberry%20Pi)
+  
   
   ### 🛠 &nbsp;Projects
   
