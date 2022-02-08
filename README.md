@@ -17,7 +17,7 @@
   
    <a href="https://github.com/niltonc">
   <img align="left" style="margin-right: 0.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" alt="Nilton's github stats" />
-  <img align="center" style="margin-left: 0.5%" height="245" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=20" alt="Nilton's github stats"/>
+  <img align="center" style="margin-left: 0.5%" height="230" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=20" alt="Nilton's github stats"/>
   </a>
 
 ### 🛠 &nbsp;Tech Stack
