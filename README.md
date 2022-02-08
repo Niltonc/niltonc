@@ -18,9 +18,10 @@
    <a href="https://github.com/niltonc">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
   </a>
+  
   <a href="https://github.com/niltonc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=27" alt="Nilton's github stats"/>
-  </a>
+  </a>q
     
 ### 🛠 &nbsp;Tech Stack
  
@@ -74,6 +75,16 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niltonc&repo=dashboard-template&theme=tokyonight" />
  </a>
 
+  ### 🛠 &nbsp;Work Experience
+  In the overview below you will find my most recent work experience:
+  
+  [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+  **Software Engineer** \
+  [**SpaceX**](https://www.spacex.com/) • Full-time \
+  Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+  Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+  <br/>
   
   ### 🛠 &nbsp;Contact
   
