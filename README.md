@@ -99,10 +99,11 @@ _In the overview below you will find my most recent work experience:_
   **Autodomo** \
   [**Autodomo**](https://autodomo.com.br/) • Full-Stack Developer \
   Languages & Technologies: `ReactJS`, `React Native`, `JavaScript`, `Node JS`, `Firebase`, `Expo`\
-  Project Description: _System that integrates smart sensors and triggers into a single platform that is fully compatible with HomeKit (Apple Device.) All devices connected to a small device are automatically available and accessible on the internet to be controlled through your Smartphone._
+  Project Description: _System that integrates smart sensors and triggers into a single platform that is fully compatible with HomeKit (Apple Device.)_
+ 
 
   <br/>
-    
+
   ### 🛠 &nbsp;Contact
   
   <a href="" alt="Gmail">
