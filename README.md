@@ -16,12 +16,11 @@
 ### 🛠 &nbsp;Git Stats
   
    <a href="https://github.com/niltonc">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
-  </a>
-  
+  <img height=206 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
+  </a>  
   <a href="https://github.com/niltonc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=27" alt="Nilton's github stats"/>
-  </a>q
+  </a>
     
 ### 🛠 &nbsp;Tech Stack
  
