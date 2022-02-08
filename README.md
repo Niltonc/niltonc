@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Git Stats
   
    <a href="https://github.com/niltonc">
-  <img height=206 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
+  <img  height=206 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&theme=tokyonight" />
   </a>  
   <a href="https://github.com/niltonc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=tokyonight&line_height=27" alt="Nilton's github stats"/>
@@ -75,14 +75,14 @@
  </a>
 
   ### 🛠 &nbsp;Work Experience
-  In the overview below you will find my most recent work experience:
+_In the overview below you will find my most recent work experience:_
   
-  [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+  [<img align="left" height="94px" width="94px" alt="Warpnet" src="./img/logo-georede.png"/>](https://play.google.com/store/apps/details?id=br.com.aguiareng.georede)
 
-  **Software Engineer** \
-  [**SpaceX**](https://www.spacex.com/) • Full-time \
-  Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-  Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+  **GeoRede** \
+  [**Aguiar Engenharia**](https://www.aguiareng.com.br/) • Full-time \
+  Languages & Technologies: `ReactJS`, `React Native`, `JavaScript`, `Node JS`, `Firebase`, `Expo`\
+  Project Description: _Georeferencing application with web and mobile compatibility._
   <br/>
   
   ### 🛠 &nbsp;Contact
