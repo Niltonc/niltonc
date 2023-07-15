@@ -8,8 +8,10 @@
 
 I'm a front-end developer who loves everything about coding and building components. I currently work in the banking sector with React Native, React JS and Next Js. (venturing to learn Node.js to work on the backend someday).
 
-👨🏻‍💻 The stacks and technologies I work with on a daily basis:
+<i>If you want to improve, rejoice when you are considered foolish and stupid by others. - Epictetus</i>
 
+
+👨🏻‍💻 The stacks and technologies I work with on a daily basis:
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
@@ -40,10 +42,11 @@ I'm a front-end developer who loves everything about coding and building compone
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 
+<br>
 
 <div align="center">
   <a href="https://github.com/niltonc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=niltonc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
